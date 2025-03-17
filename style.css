@@ -6,7 +6,7 @@
 }
 #banner {
 	background: linear-gradient(rgba(0, 0, 0, 0.5), #8A2BE2),
-		url(/Barber_Shop_img/banner.jpg);
+		url(https://tango1311.github.io/Barber/Barber_Shop_img/banner.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
